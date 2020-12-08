@@ -1,4 +1,4 @@
-# Target-Tracking-with-Pan-Tilt
+# Target Tracking with Pan Tilt
 
 Our aim is to model and control an acquisition and tracking system of a target. This system is built on top of a mobile robot "Rasteirinho" and will track the target using a combination of horizontal and vertical movement (Pan-Tilt). These movements are executed with the help of two servomotor through the acquisition of data from an end-effector camera. The main purpose of the proposed system is to keep the camera fixed on the target's centroid.
 
@@ -11,6 +11,9 @@ Our aim is to model and control an acquisition and tracking system of a target. 
 
 ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/rasteirinho.png)
 
+
+Links: \[ [Final robot simulink model](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/final%20robot%20model%20-%20smulink.png) \]
+\[ [Vision simulink model](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/vision%20model%20-%20simulink.png) \]
 
 ## Results of the optimal control approach (LQR)
 
