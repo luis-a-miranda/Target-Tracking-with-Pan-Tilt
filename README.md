@@ -3,11 +3,11 @@
 Our aim is to model and control an acquisition and tracking system of a target. This system is built on top of a mobile robot "Rasteirinho" and will track the target using a combination of horizontal and vertical movement (Pan-Tilt). These movements are executed with the help of two servomotor through the acquisition of data from an end-effector camera. The main purpose of the proposed system is to keep the camera fixed on the target's centroid.
 
 
-Target:
+##Target:##
 
 ![image](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/target.png?raw=true)
 
-Mobile Robot Protype:
+##Mobile Robot Protype:##
 
 ![image](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/rasteirinho.png?raw=true)
 
