@@ -27,7 +27,7 @@ Horizontal Coordinates            |  Vertical Coordinates
 ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20horizontal%20coordinates.png)  |  ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20vertical%20coordinates.png)
 
 
-After the mobile robot enters on a steady behaviour (5 second mark),**the maximum error obtained is around 1%.**
+When the mobile robot enters on a steady behaviour (after the 5 second mark), **the maximum error obtained is around 1%.**
 
 
 ### Conclusion
