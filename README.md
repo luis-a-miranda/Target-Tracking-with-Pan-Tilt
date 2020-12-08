@@ -14,9 +14,15 @@ Our aim is to model and control an acquisition and tracking system of a target. 
 
 ## Results
 
-Horizontal Coordinates            |  Vertical Coordinates
+**Rectilinear Trajectory:**
+Horizontal Coordinates             |  Vertical Coordinates
 :-------------------------:|:-------------------------:
 ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/rectilinear%20trajectory%20-%20horizontal%20coordinates.png)  |  ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/rectilinear%20trajectory%20-%20vertical%20coordinates.png)
+
+**Circular Trajectory**
+Horizontal Coordinates            |  Vertical Coordinates
+:-------------------------:|:-------------------------:
+![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20horizontal%20coordinates.png)  |  ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20vertical%20coordinates.png)
 
 
 ### Conclusion
