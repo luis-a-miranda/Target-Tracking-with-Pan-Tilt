@@ -12,8 +12,8 @@ Our aim is to model and control an acquisition and tracking system of a target. 
 ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/rasteirinho.png)
 
 
-Links: \[ [Final robot simulink model](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/final%20robot%20model%20-%20smulink.png) \]
-\[ [Vision simulink model](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/vision%20model%20-%20simulink.png) \]
+Links: \[ [Final robot simulink model (preview)](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/final%20robot%20model%20-%20smulink.png) \]
+\[ [Vision simulink model (preview)](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/vision%20model%20-%20simulink.png) \]
 
 ## Results of the optimal control approach (LQR)
 
