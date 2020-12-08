@@ -14,7 +14,7 @@ Our aim is to model and control an acquisition and tracking system of a target. 
 
 ## Results of optimal control approach (LQR)
 
-The target's centroid corresponds to the origin, therefore, 0x0 pixels. The following images show the coordinates (u1,v1) and (u2,v2) location for a 30 seconds experiment. Note that the coordinates should have the same distance offset to the 0 pixel value. On the horizontal case, uc is 0 while u1 corresponds to the left side of the target and u2 to the right side. The error obtained is around 1%.
+The target's centroid corresponds to the origin, therefore, 0x0 pixels. The following images show the coordinates (u1,v1) and (u2,v2) location for a 30 seconds experiment. Note that the coordinates should have the same distance offset to the 0 pixel value. On the horizontal case, *uc* is 0 while *u1* corresponds to the left side of the target and *u2* to the right side. 
 
 **Rectilinear Trajectory:**
 Horizontal Coordinates             |  Vertical Coordinates
@@ -25,6 +25,9 @@ Horizontal Coordinates             |  Vertical Coordinates
 Horizontal Coordinates            |  Vertical Coordinates
 :-------------------------:|:-------------------------:
 ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20horizontal%20coordinates.png)  |  ![](https://github.com/luis-a-miranda/Target-Tracking-with-Pan-Tilt/blob/main/images/circular%20trajectory%20-%20vertical%20coordinates.png)
+
+
+After the mobile robot enters on a steady behaviour (5 second mark),**the maximum error obtained is around 1%.**
 
 
 ### Conclusion
