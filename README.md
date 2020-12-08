@@ -14,6 +14,8 @@ Our aim is to model and control an acquisition and tracking system of a target. 
 
 ## Results of optimal control approach (LQR)
 
+The target's centroid corresponds to the origin, therefore, 0x0 pixels. The following images show the coordinates (u1,v1) and (u2,v2) location for a 30 seconds experiment. Note that the coordinates should have the same distance offset to the 0 pixel value. The error obtained is around 1%.
+
 **Rectilinear Trajectory:**
 Horizontal Coordinates             |  Vertical Coordinates
 :-------------------------:|:-------------------------:
